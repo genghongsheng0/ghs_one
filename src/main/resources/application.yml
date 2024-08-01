@@ -1,0 +1,9 @@
+server:
+  ssl:
+    key-store: D:\work\MIT\PIS安全\SSL\tomcat\tomcat.p12
+    key-store-password: mission
+    key-store-type: PKCS12
+    key-alias: tomcat
+spring:
+  application:
+    name: dongxin
